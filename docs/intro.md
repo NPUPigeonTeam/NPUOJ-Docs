@@ -1,11 +1,12 @@
 ---
 id: intro
+slug: /
 ---
 # 欢迎使用NOJ
 
 NOJ全称为Northwestern Polytechnical University Online Judgement System（西北工业大学在线评测系统），是西北工业大学计算机专业课程指定评测系统，由[西工大鸽组（NPU Pigeon Team） ](https://github.com/NPUPigeonTeam)开发运营。
 
-网站地址：[noj.ac](https://noj.ac)
+网站地址(Temp)：[noj.zszz.ltd](http://noj.zszz.ltd)
 
 ## 发展历史
 
@@ -28,7 +29,7 @@ NOJ最初由西北工业大学计算机学院[姜学锋老师](https://teacher.n
 
 成员：
 
-- [LykorisR ](https://github.com/LykorisR)
+- [4o3f ](https://github.com/4o3f)
 - [Lozumi ](https://github.com/Lozumi)
 - [crosage ](https://github.com/crosage)
 - [GBDGBDGBD](https://github.com/GBDGBDGBD)
